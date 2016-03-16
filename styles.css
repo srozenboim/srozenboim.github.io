@@ -39,3 +39,17 @@ li a {
 li a:hover {
 	background-color: #003366;
 }
+
+h1, h2 {
+	font-family: Papyrus;
+}
+
+.inputtext {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 4px 10px;
+}
+
+.form {
+	background-color: #e6e6e6;
+}
