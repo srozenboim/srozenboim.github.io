@@ -4,4 +4,18 @@ body {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  color: #001a1a;
+  font-family: Tahoma;
+}
+
+article {
+  border: 3px dashed #800080;
+  padding: 5px;
+  margin: 20px;
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+	border-radius: 25px;
 }
