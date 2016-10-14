@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hello! Welcome to my site!"
   - text: "I am a full-stack software developer currently looking for full-time employment."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
