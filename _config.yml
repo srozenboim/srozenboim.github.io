@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Full Stack Software Developer"
-  - text: "Let's create beautiful projects!"
+  - text: "Hello! Welcome to my site!"
+  - text: "I am a full-stack software developer currently looking for full-time employment."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
