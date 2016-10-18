@@ -117,10 +117,17 @@ events:
   - image: "/img/timeline/oracle.jpg"
     date: "June 2014 - January 2016"
     description: "Worked as an accountant at Oracle, Novogradac & Co, OCHO Candy"
+  - image: "/img/timeline/devbootcamp.jpg"
+    date: "February 2016 - July 2016"
+    description: "Learned to code at Dev Bootcamp"
+  - image: "/img/timeline/alexa.png"
+    date: "July 2016 - Present"
+    description: "Working on various projects including a cyber security startup, Voiceter Pro, and Alexa Babysitter"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/code.jpg"
+    
 
 ###########
 # Contact #
