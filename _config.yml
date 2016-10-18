@@ -179,7 +179,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'projects'
+  Projects: 'projects'
   Timeline: 'timeline'
   Contact: 'contact'
 
