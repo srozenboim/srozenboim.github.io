@@ -146,6 +146,8 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "github"
     url: "https://github.com/srozenboim"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/srozenboim"
 
 
 ############
