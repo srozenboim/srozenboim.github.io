@@ -111,12 +111,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/ucsb.jpg"
+    date: "June 2014"
+    description: "Graduated from UC Santa Barbara with a B.A. in Economics and Accounting"
+  - image: "/img/timeline/oracle.jpg"
+    date: "June 2014 - January 2016"
+    description: "Worked as an accountant at Oracle, Novogradac & Co, OCHO Candy"
 
 # First image of the Timeline
 
