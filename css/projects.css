@@ -1,6 +1,10 @@
-.project-images {
+.citypark-images {
 	height: 750px;
 	width: 750px;
+}
+
+.swill-images {
+	max-height: 500px;
 }
 
 .projects-text {
