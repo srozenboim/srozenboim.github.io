@@ -246,21 +246,41 @@ If you want to have a static message in your intro layout, disable the dynamic-t
 
 
 
-			<h4><a href="https://github.com/srozenboim/CityPark">CityPark</a></h4>
-			<p class='projects-text'>A web application which allows users to search for and rent privately-owened parking spots near them.</p>
-			<div id="myCarousel" class="carousel slide">
-				<!-- Carousel items -->
-				<div class="carousel-inner">
-					<div class="active item">
-					<img class="project-images" src="/img/projects/citypark-home_page.png">
-					</div> 
-					<div class="item">
-					<img class="project-images" src="/img/projects/citypark-posting_page.png">
+
+			<ul class="nav nav-tabs">
+				<li class="active"><a data-toggle="tab" href="#citypark">CityPark</a></li>
+				<li><a data-toggle="tab" href="#menu1">Swill</a></li>
+				<li><a data-toggle="tab" href="#menu2">Alexa - Babysitter</a></li>
+			</ul>
+
+			<div class="tab-content">
+				<div id="citypark" class="tab-pane fade in active">
+					<h4><a href="https://github.com/srozenboim/CityPark">CityPark</a></h4>
+					<p class='projects-text'>A web application which allows users to search for and rent privately-owened parking spots near them.</p>
+					<div id="myCarousel" class="carousel slide">
+						<!-- Carousel items -->
+						<div class="carousel-inner">
+							<div class="active item">
+								<img class="project-images" src="/img/projects/citypark-home_page.png">
+							</div> 
+							<div class="item">
+								<img class="project-images" src="/img/projects/citypark-posting_page.png">
+							</div>
+						</div>
+						<!-- Carousel nav -->
+						<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+						<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 					</div>
+
 				</div>
-				<!-- Carousel nav -->
-				<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-				<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				<div id="menu1" class="tab-pane fade">
+					<h3>Menu 1</h3>
+					<p>Some content in menu 1.</p>
+				</div>
+				<div id="menu2" class="tab-pane fade">
+					<h3>Menu 2</h3>
+					<p>Some content in menu 2.</p>
+				</div>
 			</div>
 
 		</div>
